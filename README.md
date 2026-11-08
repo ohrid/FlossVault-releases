@@ -1,7 +1,8 @@
 # Floss Vault — Downloads
 
-Floss Vault is a free, offline Windows app for cross stitch and embroidery
+Floss Vault is an offline Windows app for cross stitch and embroidery
 lovers to manage patterns, thread stock, shopping lists and projects.
+It currently runs as a 30-day trial — it isn't officially released yet.
 
 This repository only hosts installer downloads. The app's source code is
 kept in a separate, private repository.
@@ -18,5 +19,5 @@ anyway**. No administrator rights are needed to install.
 ## Feedback
 
 Testing Floss Vault? Thank you! Please see the tester's guide included with
-each release, or send feedback via a Reddit DM to
-[u/ohrid87](https://www.reddit.com/user/ohrid87).
+each release, or send feedback via a Discord DM to **ohrid** (Pixel Stitch
+server).
